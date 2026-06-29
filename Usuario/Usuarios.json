@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "Name": "Leanne Graham",
+    "Username": "Bret",
+    "Email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874"
+    }
+  },
+  {
+    "Id": 2,
+    "Name": "Ervin Howell",
+    "Username": "Antonette",
+    "Email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771"
+    }
+  },
+  {
+    "Id": 3,
+    "Name": "Clementine Bauch",
+    "Username": "Samantha",
+    "Email": "Nathan@yesenia.net",
+    "address": {
+      "street": "Douglas Extension",
+      "suite": "Suite 847",
+      "city": "McKenziehaven",
+      "zipcode": "59590-4157"
+    }
+  },
+  {
+    "Id": 4,
+    "Name": "Patricia Lebsack",
+    "Username": "Karianne",
+    "Email": "Julianne.OConner@kory.org",
+    "address": {
+      "street": "Hoeger Mall",
+      "suite": "Apt. 692",
+      "city": "South Elvis",
+      "zipcode": "53919-4257"
+    }
+  },
+  {
+    "Id": 5,
+    "Name": "Chelsey Dietrich",
+    "Username": "Kamren",
+    "Email": "Lucio_Hettinger@annie.ca",
+    "address": {
+      "street": "Skiles Walks",
+      "suite": "Suite 351",
+      "city": "Roscoeview",
+      "zipcode": "33263"
+    }
+  },
+  {
+    "Id": 6,
+    "Name": "Mrs. Dennis Schulist",
+    "Username": "Leopoldo_Corkery",
+    "Email": "Karley_Dach@jasper.info",
+    "address": {
+      "street": "Norberto Crossing",
+      "suite": "Apt. 950",
+      "city": "South Christy",
+      "zipcode": "23505-1337"
+    }
+  },
+  {
+    "Id": 7,
+    "Name": "Kurtis Weissnat",
+    "Username": "Elwyn.Skiles",
+    "Email": "Telly.Hoeger@billy.biz",
+    "address": {
+      "street": "Rex Trail",
+      "suite": "Suite 280",
+      "city": "Howemouth",
+      "zipcode": "58804-1099"
+    }
+  },
+  {
+    "Id": 8,
+    "Name": "Nicholas Runolfsdottir V",
+    "Username": "Maxime_Nienow",
+    "Email": "Sherwood@rosamond.me",
+    "address": {
+      "street": "Ellsworth Summit",
+      "suite": "Suite 729",
+      "city": "Aliyaview",
+      "zipcode": "45169"
+    }
+  },
+  {
+    "Id": 9,
+    "Name": "Glenna Reichert",
+    "Username": "Delphine",
+    "Email": "Chaim_McDermott@dana.io",
+    "address": {
+      "street": "Dayna Park",
+      "suite": "Suite 449",
+      "city": "Bartholomebury",
+      "zipcode": "76495-3109"
+    }
+  },
+  {
+    "Id": 10,
+    "Name": "Clementina DuBuque",
+    "Username": "Moriah.Stanton",
+    "Email": "Rey.Padberg@karina.biz",
+    "address": {
+      "street": "Kattie Turnpike",
+      "suite": "Suite 198",
+      "city": "Lebsackbury",
+      "zipcode": "31428-2261"
+    }
+  }
+]
